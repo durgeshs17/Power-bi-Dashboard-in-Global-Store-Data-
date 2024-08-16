@@ -1,7 +1,3 @@
-Creating a README file for a Power BI Dashboard project on Global Superstore data involves outlining the purpose, features, and usage of the dashboard. Below is a sample structure you can use for your GitHub repository's README file:
-
----
-
 # Global Superstore Dashboard in Power BI
 
 ## Overview
