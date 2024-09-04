@@ -77,5 +77,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspiration from various Power BI community dashboards.
 
 ---
-
-You can adjust the content above based on your specific dashboard features and customization. Once done, save it as `README.md` and upload it to your GitHub repository.
